@@ -1,5 +1,3 @@
-Claro! Aqui está o README totalmente em português:
-
 # Conversor de Moedas
 
 ## Índice
